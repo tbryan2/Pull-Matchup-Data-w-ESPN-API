@@ -1,1 +1,0 @@
-league_id = 'ENTER YOUR ESPN LEAGUE ID HERE'
