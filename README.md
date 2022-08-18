@@ -17,7 +17,7 @@ This is the first code repository related to a series of videos on pulling, mani
 5. All done! The csv with matchup data will be in your directory
 <img width="924" alt="Screen Shot 2022-08-18 at 2 03 40 PM" src="https://user-images.githubusercontent.com/29851231/185474104-9457db2d-0791-4414-9532-122f3a0428a6.png">
 
-To find your ESPN league id, go to your ESPN fantasy football league page and look in the url for where it says leagueid=******
+To find your ESPN league id, go to your ESPN fantasy football league page and look in the url for where it says leagueid=123456
 <img width="507" alt="Screen Shot 2022-08-18 at 2 05 22 PM" src="https://user-images.githubusercontent.com/29851231/185474391-777c13c6-d29a-48c5-a559-15fe680d0bf0.png">
 
 There's also a Python notebook **MatchupsExportESPNAPI.ipynb** where the code is broken down into blocks and explained, in detail, in the Youtube video. It's key to understand this first set of code in order to progress with the ESPN API.
