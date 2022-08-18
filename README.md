@@ -11,7 +11,7 @@ This is the first code repository related to a series of videos on pulling, mani
 1. Git clone the repository to your machine.
 2. In terminal, *cd Pull-Matchup-Data-w-ESPN-API*:
 <img width="573" alt="Screen Shot 2022-08-18 at 1 59 13 PM" src="https://user-images.githubusercontent.com/29851231/185473271-6894aa8b-1f9d-4692-a507-b28d5aed4c35.png">
-3. Run the **main.py** file
+3. Run the main.py file
 4. Enter your ESPN league id (how to find this is below) and the year you want to pull:
 <img width="573" alt="Screen Shot 2022-08-18 at 2 02 40 PM" src="https://user-images.githubusercontent.com/29851231/185473930-0473d368-a97a-4e76-b0e4-897885eb8973.png">
 5. All done! The csv with matchup data will be in your directory
