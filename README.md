@@ -1,6 +1,6 @@
 # ESPN-API
 
-(https://youtu.be/PUUkwBYYKHA)
+https://youtu.be/PUUkwBYYKHA
 
 ## Objective
 Pull matchup data from your fantasy football league using the ESPN API, Python, and pandas.
