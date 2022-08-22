@@ -3,12 +3,11 @@ import requests
 import pandas as pd
 
 # Define URL parameters
-league_id = input('Enter your ESPN league id:')
-year = input('Enter the year for the data you would like to pull:')
+league_id = input('Enter your ESPN league id: ')
+year = input('Enter the year for the data you would like to pull: ')
 
 # Define the URL with our parameters
-url = "https://fantasy.espn.com/apis/v3/games/ffl/leagueHistory/" + \
-      str(league_id) + "?seasonId=" + str(year)
+url = f'https://fantasy.espn.com/apis/v3/games/ffl/leagueHistory/{league_id}/seasonId={year}'
 
 # Pull team and matchup data from the URL
 matchup_response = requests.get(url, params={"view": "mMatchup"})
