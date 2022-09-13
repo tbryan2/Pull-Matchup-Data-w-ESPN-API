@@ -2,6 +2,9 @@
 
 [Video Tutorial](https://youtu.be/PUUkwBYYKHA)
 
+## IMPORTANT NOTE
+This is only for historical league data (I didn't know this originally). I'm working on a repo for getting current year FF league data.
+
 ## Objective
 Pull matchup data from your fantasy football league using the ESPN API, Python, and pandas.
 
